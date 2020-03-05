@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+    <head>
+        <meta charset="UTF-8">
+        <title>Find the precious!</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+  
+    <body>
+      
+      <div class="contenu">
+        
+        <nav>
+            <ul>
+                <li>FindThePrecious.com</li>
+                <li>Fellows</li>
+                <li>Contact us</li>
+            </ul>
+        </nav>
+        
+        
+          
+            <div class="carousel"><img class ="carousel" src="http://placehold.it/800x400E" alt="carousel"></div>
+       
+        
+                
+        
+          <h2>Fellows wanted dead<span> (or alive if you want to eat them later)</span></h2>
+           <div id ="lesportraits"> 
+            <article><h3>Portrait</h3> <img src="https://via.placeholder.com/400" alt="portrait1"></article>
+            <article><h3>Portrait</h3> <img src="https://via.placeholder.com/400" alt="portrait2"></article>
+            <article><h3>Portrait</h3> <img src="https://via.placeholder.com/400" alt="portrait3"></article>
+          </div>    
+        
+        
+        <hr/>
+        
+          
+  <section id ="formulaire">
+        <form>
+            <div class="contactus"><h2>Contact us</h2></div>
+          <input type="email" placeholder="@"></br>
+        <input type="text" placeholder="&#8962;"></br>
+      <input type="text" placeholder="I have seen one of them"></br>
+            <textarea placeholder="Your message"></textarea>
+        </form>
+  </section>     
+  </div>
+        </body>
+      
+    
+  
+</html>
